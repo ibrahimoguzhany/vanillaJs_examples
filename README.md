@@ -1,6 +1,6 @@
 # vanillaJs_examples
 
-Js examples that i studied while ago. Codes are declative and full of clean comments.
+Js examples that i studied while ago. Codes are declarative and full of clean comments written by me.
 
 ## How to use
 
